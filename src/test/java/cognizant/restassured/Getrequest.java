@@ -18,6 +18,7 @@ public class Getrequest {
 	
 	@Test
 	public void getrequest() {
+ //Hi I have changed this code  
 		
 		//RestAssured.get("https://reqres.in/api/users?page=2");
 		baseURI="https://reqres.in/";
